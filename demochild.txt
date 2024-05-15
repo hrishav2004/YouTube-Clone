@@ -1,0 +1,2 @@
+# A demo text file for practising branching, pull and merging.
+# This file does not serve any functionality, just made as a demo file.
